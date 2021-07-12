@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @shubhamrocks123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Shubham Tibrewal
+- 👀 I’m interested in making the program's that makes the lif eeasy and simple.
+- 🌱 I’m currently pursing B.Tech.
+- 💞️ I’m looking to collaborate on good companies project to improve my learning skill.
+-
 
-<!---
-shubhamrocks123/shubhamrocks123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
